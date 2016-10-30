@@ -1,4 +1,4 @@
-# Workshop - Building a .NET bot
+# GTFAQ Workshop - Building a .NET bot
 
 This tutorial will show you how to setup a FAQ bot using the Microsoft Bot Framework and LUIS.AI as a natural language processing service.
 
