@@ -7,9 +7,10 @@ This tutorial will show you how to setup a FAQ bot using the Microsoft Bot Frame
 1. Install Visual Studio 2015 - http://www.visualstudio.com
 2. Download the Bot Framework VS Template at http://aka.ms/bf-bc-vstemplate
 3. Save the ZIP file to your template directory which by default is:
-```
-%USERPROFILE%\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\
-```
+   ```
+   %USERPROFILE%\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\
+   ```
+   
 4. Download the Bot Channel Emulator for testing at https://aka.ms/bf-bc-emulator (Windows only)
 5. Create a new Visual Studio project using the newly installed template.
 
@@ -319,3 +320,6 @@ There are many other bot framework features to look into, like prompts, authenti
 | --- | --- |
 | Official documentation | https://docs.botframework.com/en-us/ |
 | Resource collection | https://aka.ms/botresources |
+
+## Disclaimer
+This bot is meant for educational purposes and I am not associated with GovTech in any way. Commercial usage is your own responsibility.
