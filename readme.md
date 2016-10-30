@@ -310,7 +310,7 @@ From there, the project is a web app that can be deployed to any cloud or on-pre
 Visual Studio 2015 comes with Azure App Services (PaaS) integration. This allows you to right click the solution and click publish. If you have an Azure subscription, you will be able to create a Web App resource on Azure and deploy directly to it easily.
 
 ## Try it out
-www.govtechdemo.azurewebsites.net
+http://govtechdemo.azurewebsites.net/
 
 ## Further learning
 There are many other bot framework features to look into, like prompts, authentication, dialog chaining and FormFlows.
